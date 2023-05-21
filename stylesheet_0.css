@@ -1,12 +1,12 @@
 @font-face {
-    font-family: Mokoto-Demo;
+    font-family: Mokoto Regular;
     font-style: normal;
     font-weight: 700;
     src: url(fonts/01.woff2)format("woff2")
 }
 
 @font-face {
-    font-family: Mokoto-Demo;
+    font-family: Mokoto Regular;
     font-style: normal;
     font-weight: 400;
     src: url(fonts/01.woff2)format("woff2")
